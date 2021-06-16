@@ -10,6 +10,5 @@ l.warn('warn')
 l.info('info')
 l.debug('debug')
 l.trace('trace')
-l.useLevelLabels
 
 export default l;
